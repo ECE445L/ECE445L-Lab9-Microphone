@@ -1,0 +1,13 @@
+"./Lab9T.obj"
+"./Lab_Brd_Port_Init.obj"
+"./PLL.obj"
+"./ST7735.obj"
+"./TExaS.obj"
+"./TLV5616.obj"
+"./Timer0A.obj"
+"./Timer1A.obj"
+"./Transmitter.obj"
+"./dsp.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
