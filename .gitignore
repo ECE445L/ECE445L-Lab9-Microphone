@@ -1,7 +1,10 @@
+# Github's C.gitignore.
+
 # Prerequisites
 *.d
 
 # Object files
+*.o
 *.ko
 *.obj
 *.elf
@@ -48,6 +51,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
 
 # Keil.gitignore from https://github.com/mrshrdlu/gitignore-keil.
 # Taken mostly from http://www.keil.com/support/man/docs/uv4/uv4_b_filetypes.htm
@@ -141,3 +145,6 @@ RemoteSystemsTempFiles/
 .settings/
 .launches/
 /.metadata/
+
+# API autogen documentation.
+resources/Documentation

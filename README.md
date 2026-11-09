@@ -1,22 +1,12 @@
 # Lab 9 Audio Communication System
 
-ECE445L Lab 9 Template.
-
-**NOTE: CCS will not compile for this project, since there are some assembly files in ARMASM syntax, and CCS needs ARMCLANG syntax.**
-
-![Lab 9 README](Lab09.docx)
-
-IMPORTANT (for those not using Github Classroom): To clone this repository,
-click the green "Use this template" button and create a PRIVATE repository. Do
-NOT clone this repository as you would normally clone a git repo (i.e. using
-'git clone ...') because you will not be able to make a private fork.
+# ECE445L-Lab9
 
 ## HW
 
 The hw folder should contain your schematic and board files for your PCB or
-circuits. In later labs, you will be creating schematics for your circuit
-in EAGLE. A setup tutorial can be found
-[here](https://www.shawnvictor.net/autodesk-eagle.html).
+circuits. In labs 3-11, you will be creating schematics for your circuit
+in Kicad. 
 
 ## SW
 
